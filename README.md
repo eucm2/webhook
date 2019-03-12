@@ -1,10 +1,10 @@
 # Webhook
 
 
-# Deploy to:
+# Deploy:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-# How it works?
+# Como funciona?
 - Push this app to Heroku
 - Test the API https://webhookpn.herokuapp.com/echo - puedes usar https://www.getpostman.com/ para hacer testing
 
